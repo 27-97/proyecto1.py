@@ -2,7 +2,7 @@
 
 import matplotlib.pyplot as plt
 
-# Datos de ejemplo para electronegatividad
+# Datos para electronegatividad
 elementos = ['H', 'C', 'O', 'N', 'Cl', 'S', 'F', 'P', 'I', 'Br']
 electronegatividad = [2.20, 2.55, 3.44, 3.04, 3.16, 2.58, 3.98, 2.19, 2.66, 2.96]
 
